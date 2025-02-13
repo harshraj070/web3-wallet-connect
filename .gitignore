@@ -1,0 +1,10 @@
+# Ignore environment variables
+.env
+
+# Ignore node modules (optional but recommended)
+node_modules/
+
+# Ignore build artifacts (for React projects)
+dist/
+build/
+.env
